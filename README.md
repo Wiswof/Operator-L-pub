@@ -59,17 +59,19 @@ Two trained models are provided in the repository as references. These can be us
 
 ## Usage
 
-1. Generate or load dataset:
+1. (Optional) Collect measurement data:
+
+   * Run `Circuit_measurement0701.ipynb
+     
+2. Generate or load dataset:
 
    * Run `Nqubits_op_data_gen_0526.ipynb` or use provided `.npz` file
 
-2. Train the model:
+3. Train the model:
 
    * Run `Nqubits_trunc_sin_emb_5_X_0604_clean.ipynb`
 
-3. (Optional) Collect measurement data:
-
-   * Run `Circuit_measurement0701.ipynb`
+`
 
 ## Notes
 
