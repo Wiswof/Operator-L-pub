@@ -71,12 +71,7 @@ Two trained models are provided in the repository as references. These can be us
 
    * Run `Nqubits_trunc_sin_emb_5_X_0604_clean.ipynb`
 
-`
 
-## Notes
-
-* Ensure required Python libraries are installed (e.g., NumPy, PyTorch, Qiskit if used)
-* GPU acceleration is recommended for training
 
 ## License
 
